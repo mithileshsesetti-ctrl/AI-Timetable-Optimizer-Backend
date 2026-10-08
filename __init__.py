@@ -1,0 +1,2 @@
+python -u "c:\Users\Mithil\AI-Timetable-Optimizer\backend\__init__.py"
+Copy-Item "C:\Users\Mithil\AI-Timetable-Optimizer\routers\*.py" "C:\Users\Mithil\AI-Timetable-Optimizer\backend\app\routers\" -Force
