@@ -16,6 +16,7 @@ from app.models.models import (
     StudentGroup,
     TimeSlot,
     TimetableAllocation,
+    User,
 )
 
 __all__ = [
@@ -36,4 +37,5 @@ __all__ = [
     "StudentGroup",
     "TimeSlot",
     "TimetableAllocation",
+    "User",
 ]

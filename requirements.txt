@@ -5,3 +5,8 @@ psycopg2-binary
 ortools
 python-dotenv
 psycopg[binary]
+
+pwdlib[argon2]
+PyJWT
+
+email-validator
